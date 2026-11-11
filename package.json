@@ -1,0 +1,13 @@
+{
+  "name": "zigg-server",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Zigg licence server + download page",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js"
+  },
+  "engines": {
+    "node": ">=22.5"
+  }
+}
